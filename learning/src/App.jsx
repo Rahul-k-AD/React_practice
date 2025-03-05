@@ -1,8 +1,12 @@
 import List from "./list";
 import "./index.css"
 import Home from "./home"
-import test from "./components/class"
-function App() {
+import Test from "./components/class"
+import Brand from "./brand"
+function App(props) {
+  
+
+  
   return (
    <>
    <h1>Dojo</h1>
@@ -23,7 +27,10 @@ function App() {
     <Home />
     <br />
     <h1>This is a class component test</h1>
-    <test />
+    <Test />
+    <Brand />
+     
+
     </>
   );
   
