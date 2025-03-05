@@ -1,6 +1,7 @@
-import List from "./list.jsx";
+import List from "./list";
 import "./index.css"
-import Home from "./home.jsx"
+import Home from "./home"
+import test from "./components/class"
 function App() {
   return (
    <>
@@ -20,6 +21,9 @@ function App() {
     <button>Add</button>
     </div>
     <Home />
+    <br />
+    <h1>This is a class component test</h1>
+    <test />
     </>
   );
   
