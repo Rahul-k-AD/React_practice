@@ -18,7 +18,7 @@ function ListItem(props) {
 }
 
 function App() {
-  const animals = ["Lion", "Tiger", "Cow", "Goat"];
+  const animals = ["Lion", "Tiger", "Cow", "Goat","Pig"];
   return (
     <div>
       
