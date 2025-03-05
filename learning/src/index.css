@@ -1,0 +1,45 @@
+*{
+    background-color: brown;
+
+}
+.container{
+    color: white;
+    text-align: center;
+    justify-self: center;
+    display: flex;
+    margin: 0 auto;
+    
+}
+h1{
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 75px;
+    text-align: center;
+}
+.list{
+    
+    
+   
+    margin-left: auto;
+   
+    
+}
+.layer{
+    margin:  120px auto 120px auto;
+    width: 100%;
+    max-width: 520px;
+    background-color: greenyellow;
+    height: 250px;
+    text-align: center;
+    border-radius: 20px;
+    color: black;
+    font-size: larger;
+    
+}
+button{
+    background-color: white;
+}
+input{
+    background-color: white;
+}
